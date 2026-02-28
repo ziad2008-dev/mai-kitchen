@@ -200,49 +200,6 @@ padding: 20px;
 
 
 
-@media (max-width: 768px){
-
-  /* تكبير عام */
-  body{ font-size: 18px; }
-
-  .nav-container{ padding: 14px 14px; }
-  .logo-text{ font-size: 22px !important; }
-  .logo-mark{ font-size: 16px !important; }
-
-  .hero{ padding: 22px 14px; }
-  .hero h1{ font-size: 40px !important; line-height: 1.2; }
-  .hero p{ font-size: 18px !important; }
-
-  .hero-buttons a{
-    font-size: 17px !important;
-    padding: 14px 18px !important;
-    border-radius: 14px;
-  }
-}
-
-
-
-             @media (max-width: 768px){
-
-  .nav-links{
-    display: flex !important;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    padding: 8px 12px 14px;
-    margin: 0;
-  }
-
-  .nav-links a{
-    font-size: 16px !important;
-    padding: 10px 12px;
-    border-radius: 12px;
-    background: rgba(255,255,255,0.06);
-  }
-
-  /* خليه تحت الشريط */
-  .navbar{ flex-direction: column; }
-  .nav-container{ width: 100%; }
-}                            
+                            
                                     
                
