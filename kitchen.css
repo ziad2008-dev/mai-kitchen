@@ -76,7 +76,7 @@
 /*end of nav bar*/   
 /*hero sec*/
 .hero{height:90vh;
-    background-image: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url(imageki/food.im.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url(food.im.jpeg);
     background-position: center;
     background-size: cover;
     display: flex;
